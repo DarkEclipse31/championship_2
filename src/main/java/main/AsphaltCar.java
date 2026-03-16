@@ -1,6 +1,6 @@
-/**
- * Rally car configured for asphalt surfaces.
- */
+
+// Rally car configured for asphalt surfaces.
+
 package main;
 
 public class AsphaltCar extends RallyCar {
