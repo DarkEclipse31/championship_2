@@ -1,7 +1,6 @@
 package main;
 /**
- * Represents a rally driver in the championship.
- * Demonstrates dependency injection by receiving a RallyCar object.
+ * Represents a rally driver participating in the championship.
  */
 
 public class Driver {
