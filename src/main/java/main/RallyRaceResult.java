@@ -4,9 +4,6 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * Concrete implementation of a race result.
- */
 public class RallyRaceResult implements RaceResult {
     private String raceName;
     private String location;
