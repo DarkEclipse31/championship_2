@@ -1,7 +1,5 @@
 package main;
-/**
- * Rally car configured for gravel surfaces.
- */
+ 
 public class GravelCar extends RallyCar {
     private double suspensionTravel;
 
