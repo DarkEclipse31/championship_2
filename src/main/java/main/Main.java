@@ -1,9 +1,6 @@
 package main;
 import java.util.List;
 
-/**
- * Demonstrates the Rally Championship Management System.
- */
 public class Main {
     public static void main(String[] args) {
         ChampionshipManager manager = ChampionshipManager.getInstance();
