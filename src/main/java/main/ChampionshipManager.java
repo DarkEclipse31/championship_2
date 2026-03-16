@@ -4,9 +4,9 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * Singleton class that manages the championship.
- */
+
+ // Singleton class that manages the championship.
+ 
 public class ChampionshipManager {
     private static ChampionshipManager instance;
     private List<Driver> drivers;
