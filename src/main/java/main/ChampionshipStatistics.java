@@ -3,9 +3,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Static utility class for championship statistics.
- */
+
+ // Static utility class for championship statistics.
+ 
 public final class ChampionshipStatistics {
     private ChampionshipStatistics() {
     }
