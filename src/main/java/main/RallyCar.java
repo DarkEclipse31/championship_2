@@ -1,8 +1,7 @@
 package main;
-/**
- * Abstract base class for rally cars.
- * Subclasses must provide their own performance calculation.
- */
+
+// Abstract base class for rally cars.
+ 
 public abstract class RallyCar {
     private String make;
     private String model;
