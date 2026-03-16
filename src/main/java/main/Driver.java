@@ -1,8 +1,5 @@
 package main;
-/**
- * Represents a rally driver participating in the championship.
- */
-
+ 
 public class Driver {
     private String name;
     private String country;
